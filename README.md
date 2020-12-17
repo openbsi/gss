@@ -1,2 +1,3 @@
-# openmps
-The open source version of Nvidia MPS
+# gss
+
+The related solutions on GPU sharing.
